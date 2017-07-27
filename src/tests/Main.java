@@ -11,5 +11,6 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("HELLO happy Sales people!!!");
 		System.out.println("This is show application proj TESTS! OOO Oslo");
+		System.out.println("test git new committing");
 	}
 }
